@@ -1,5 +1,5 @@
 This repository contains various computer simulations about:
 
--Central Limit Theorem
+-Central Limit Theorem (Python)
 
--Levy (alpha) stable distributions
+-Levy (alpha) stable distributions and parameter estimation (Julia)
